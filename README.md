@@ -1,2 +1,3 @@
-# docker-with-python
-Learn how to build Python images using Docker
+# Containerizing Python Applications with Docker
+
+Link to the tutorial [here](https://docs.docker.com/language/python/).
